@@ -10,7 +10,8 @@ To utilize this project for inspiration or learning purposes, please follow thes
   3. Log in with your new account, click on 'Create,' and choose the option 'Import files.'
 
 Now you can view the 3D model and start exploring!
-![Image Description](https://github.com/louisRT47/3DModel_GoPro/blob/main/Screenshot%20from%202024-03-16%2018-12-45.png)
+
+![Image Description](https://github.com/louisRT47/3DModel_GoPro/blob/main/Tripe%20GoPro.png)
 
 
 
