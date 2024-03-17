@@ -1,6 +1,8 @@
 # 3D Model for GoPro
 3D Model Support for Go Pro designed on OnShape!
 
+**Current Status:** Done ✅
+
 
 ## Installation
 To utilize this project for inspiration or learning purposes, please follow these steps:
